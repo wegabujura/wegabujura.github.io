@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wegabujura.github.io/sitemap.xml
